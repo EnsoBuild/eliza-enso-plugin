@@ -46,6 +46,10 @@ ENSO_API_KEY= # Request an API key from https://shortcuts.enso.finance/developer
 
 Find the most optimal route between two tokens and execute it.
 
+```
+I want to route 2 0x4200000000000000000000000000000000000006 (WETH) to 0x4e65fe4dba92790696d040ac24aa414708f5c0ab (aBasUSDC) on Base
+```
+
 ## Development
 
 1. Clone the repository
